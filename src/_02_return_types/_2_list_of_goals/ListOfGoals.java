@@ -22,8 +22,6 @@ public class ListOfGoals {
 		if ( isManyGoals()) {
 			JOptionPane.showMessageDialog(null, ("Wow that's a lot of goals! Awesome!"));
 		}
-
-
 	}
 
 
